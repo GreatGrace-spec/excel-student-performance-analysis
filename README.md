@@ -1,5 +1,5 @@
 Student Performance Analysis (Excel)
-📖 Project Overview
+Project Overview
 
 This project analyzes student academic performance using Microsoft Excel. The dataset was cleaned, processed, and analyzed to uncover trends in course performance, attendance impact, and gender comparison.
 
@@ -15,7 +15,7 @@ Charts & Dashboard
 
 Data Cleaning Techniques
 
-🧹 Data Cleaning
+Data Cleaning
 
 Checked for missing values
 
@@ -25,7 +25,7 @@ Standardized course names
 
 Ensured numeric formatting for scores
 
-📊 Data Processing
+Data Processing
 
 Created Total Score column
 (Test Score + Exam Score) / 2
@@ -38,7 +38,7 @@ Categorized performance:
 
 Below 50 → Poor
 
-📈 Analysis Conducted
+Analysis Conducted
 
 Average score per course
 
@@ -48,10 +48,11 @@ Attendance vs performance relationship
 
 Gender performance comparison
 
-🔎 Key Insights
+Key Insights
 
 Attendance shows a positive relationship with performance.
 
 Majority of students fall within the Average category.
+
 
 One course recorded significantly higher performance.
