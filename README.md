@@ -3,7 +3,7 @@ Project Overview
 
 This project analyzes student academic performance using Microsoft Excel. The dataset was cleaned, processed, and analyzed to uncover trends in course performance, attendance impact, and gender comparison.
 
-🛠 Tools Used
+Tools Used
 
 Microsoft Excel
 
@@ -56,3 +56,4 @@ Majority of students fall within the Average category.
 
 
 One course recorded significantly higher performance.
+
